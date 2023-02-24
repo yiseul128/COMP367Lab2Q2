@@ -1,2 +1,2 @@
-"# COMP367Lab2Q2" 
-update
+# COMP367Lab2Q2
+update 1
